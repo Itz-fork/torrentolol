@@ -1,0 +1,8 @@
+{
+  "name": "torrentolol",
+  "description": "All in one bot for torrenting",
+  "repository": "https://github.com/Hirusha-H/torrentolol2",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.g

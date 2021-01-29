@@ -109,3 +109,6 @@ torrent: {
 ```
 
 sites available: piratebay, 1337x, limetorrent
+
+##OWNER
+-[patheticGeek](https://github.com/patheticGeek)

@@ -1,4 +1,4 @@
-# Torrent all-in-one bot
+# Torrent all-in-one bot (Torrentolol)
 
 Lorem ipsum i am too lazy figure what it does yourself
 

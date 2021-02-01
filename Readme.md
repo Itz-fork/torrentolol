@@ -2,7 +2,7 @@
 
 Lorem ipsum i am too lazy figure what it does yourself
 
-You might be lazy too so here ya go:
+Deploy with heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha-H/torrentolol2)
 
@@ -110,5 +110,6 @@ torrent: {
 
 sites available: piratebay, 1337x, limetorrent
 
-##OWNER
--[patheticGeek](https://github.com/patheticGeek)
+##Owner
+Creator - [patheticGeek](https://github.com/patheticGeek)
+I made some very small changes 🙃

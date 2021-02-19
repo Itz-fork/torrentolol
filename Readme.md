@@ -110,6 +110,6 @@ torrent: {
 
 sites available: piratebay, 1337x, limetorrent
 
-##Owner
+## About
 Creator - [patheticGeek](https://github.com/patheticGeek)
 I made some very small changes 🙃

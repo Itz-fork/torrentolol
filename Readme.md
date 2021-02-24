@@ -1,12 +1,10 @@
 # Torrent all-in-one bot (Torrentolol)
+A Forked One
 
-Lorem ipsum i am too lazy figure what it does yourself
-
-Deploy with heroku:
+## Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha-H/torrentolol2)
 
-Please dont start a test torrent download on my website it works you dont need to just wastes my drive space. Be careful when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
 
 #### The search section is currently unmaintained due to the inconsistency between proxy sites and their uptimes
 

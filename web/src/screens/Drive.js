@@ -17,7 +17,7 @@ export default function Drive() {
             </i>
           </Link>
         )}
-        Torrentolol II Drive Index
+        Torrentolol Drive Index
       </h1>
       {!data && !error && <div className="loading-div" />}
       {!!error && <div style={{ color: "red" }}>{`${error}`}</div>}
